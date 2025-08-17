@@ -1,3 +1,7 @@
 Day 1 was all about basic knowledge like syntax, variable, data types, operators, and comments.
 
 Day 2 was all about conditionals and loops.
+
+Day 3 was all about nested loops.
+
+Day 4 was all about break and continue statements(I did not do much today, took a rest day).
