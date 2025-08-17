@@ -4,4 +4,4 @@ Day 2 was all about conditionals and loops.
 
 Day 3 was all about nested loops.
 
-Day 4 was all about break and continue statements(I did not do much today, took a rest day).
+Day 4 was all about break, continue statements and built in functions.
