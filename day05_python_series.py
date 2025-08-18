@@ -32,11 +32,18 @@
 
 
 # slicing
-s= 'hello world'
-print(s[0:5])
-print(s[2:])
-print(s[:5])
-print(s[0:10:2])
-print(s[-5:-1:2])
-print(s[-5:-1:2])
-print(s[ ::2])
+# s= 'hello world'
+# print(s[0:5])
+# print(s[2:])
+# print(s[:5])
+# print(s[0:10:2])
+# print(s[-5:-1:2])
+# print(s[-5:-1:2])
+# # reverse
+# print(s[::-1])
+
+# editing and deleting a string in python
+# strings are immutable so editing and deleting does not work we can only reassign the value or we can completely delete the entire
+c='hello'
+c[0]='x'
+print(c)
