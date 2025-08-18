@@ -14,9 +14,29 @@
 # print(os.getcwd())
 # print(os.listdir())
 
-c='hello'
-d=" 'hi' "
-e='''hi
-hello
-hi'''
-print(c,d,e)
+# c='hello'
+# d=" 'hi' "
+# e='''hi
+# hello
+# hi'''
+# print(c,d,e)
+
+# indexing and slicing of a string
+# types of indexing
+# positive
+# s='hello'
+# print(s[3])
+
+# # negative
+# print(s[-1])
+
+
+# slicing
+s= 'hello world'
+print(s[0:5])
+print(s[2:])
+print(s[:5])
+print(s[0:10:2])
+print(s[-5:-1:2])
+print(s[-5:-1:2])
+print(s[ ::2])

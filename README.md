@@ -6,4 +6,4 @@ Day 3 was all about nested loops.
 
 Day 4 was all about break, continue statements and built in functions.
 
-Day 5 was all about built in modules
+Day 5 was all about built in modules, strings, indexing and slicing of strings,.
