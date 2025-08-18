@@ -44,6 +44,12 @@
 
 # editing and deleting a string in python
 # strings are immutable so editing and deleting does not work we can only reassign the value or we can completely delete the entire
-c='hello'
-c[0]='x'
-print(c)
+# c='hello'
+# c[0]='x'
+# print(c)
+
+print("hello"*6)
+# jo chez phely aygi dictionary mai
+print("Mumbai">"pune")
+# small letters come after the capital
+print("mumbai">"Pune")
