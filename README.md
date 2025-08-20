@@ -11,3 +11,8 @@ Day 5 was all about built in modules, strings, indexing and slicing of strings.
 Day 6 is all about functions in strings.
 Some are common functions like len(), max(), min(), sorted() etc. They are used for other data types as well.
 Some are string specific functions like capitalize/title.lower/upper/swap case
+
+Day 7 is all about the lists. Lists are heterogenous(different data types can be stored unlike arrays that are homogenous).
+List do not store stuff in a line or in a sequence of memory address whereas arrays store in a seq of memory address which is why they are faster.
+Lists are programmer friendly.
+Lists are mutable.
