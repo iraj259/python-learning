@@ -56,11 +56,26 @@ l2=[1,2,3,4,5]
 # print(unique)
 
 # tuples
-
 # create
-t=()
-t2=(1,2,3,4,)
-t3=(1,'hello','world',2,3,4)
-t4=(1,2,3,(3,4))
-t5=(1,)
-print(type(t5))
+# t=()
+# t2=(1,2,3,4,)
+# t3=(1,'hello','world',2,3,4)
+# t4=(1,2,3,(3,4))
+# t5=(1,)
+# print(type(t5))
+
+# sets
+s1=set()
+s2={1,2,3,4}
+# s4={[1,2,3],'hello'}
+s4={(1,2,3),'hello'}
+s2.add('iraj')
+s2.remove('iraj')
+s2.pop()
+print(s2)
+# print(s4)
+s5=s2.union(s4)
+print(s5)
+s6=s5.intersection(s4)
+s7=s2.difference(s4)
+print(s7)

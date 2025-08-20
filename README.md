@@ -17,3 +17,10 @@ List do not store stuff in a line or in a sequence of memory address whereas arr
 Lists are programmer friendly.
 Lists are mutable.
 Tuples are immutable unlike lists.
+Sets do not allow duplicates, no indexing,slicing,no editing, no mutable data type whereas set itself is mutable.
+sets follow hashing
+Dictionary is a collection of key value pairs.
+It has no indexing, is a mutable data type but keys are immutable and values are mutable. Keys should be unique.
+
+Mutable->list/sets/dictionary
+Immutable->strings/tuples/int/float/boolean/complex
