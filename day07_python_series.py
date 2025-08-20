@@ -65,17 +65,37 @@ l2=[1,2,3,4,5]
 # print(type(t5))
 
 # sets
-s1=set()
-s2={1,2,3,4}
-# s4={[1,2,3],'hello'}
-s4={(1,2,3),'hello'}
-s2.add('iraj')
-s2.remove('iraj')
-s2.pop()
-print(s2)
-# print(s4)
-s5=s2.union(s4)
-print(s5)
-s6=s5.intersection(s4)
-s7=s2.difference(s4)
-print(s7)
+# s1=set()
+# s2={1,2,3,4}
+# # s4={[1,2,3],'hello'}
+# s4={(1,2,3),'hello'}
+# s2.add('iraj')
+# s2.remove('iraj')
+# s2.pop()
+# print(s2)
+# # print(s4)
+# s5=s2.union(s4)
+# print(s5)
+# s6=s5.intersection(s4)
+# s7=s2.difference(s4)
+# print(s7)
+
+# dictionary
+d={}
+d1={'name':'iraj','age':22}
+print(d1)
+
+d2={'name':'iraj','college':'abc','location':{'branch':'cse','year':2021}}
+print(d2)
+
+print(d1['name'])
+print(d2['location']['branch'])
+d2['location']['branch']='ece'
+print(d2)
+d1['location']='abscd'
+print(d1)
+print(sorted(d1))
+print(d2.keys())
+print(d2.values())
+
+
