@@ -47,10 +47,20 @@ l2=[1,2,3,4,5]
 # email="abc@gmail.com"
 # print(email[:email.find('@')])
 
-duplicate = [1,1,2,2,3,3,4,4]
-duplicate2=[1,2,3,1]
-unique=[]
-for i in duplicate:
-    if i not in unique:
-        unique.append(i)
-print(unique)
+# duplicate = [1,1,2,2,3,3,4,4]
+# duplicate2=[1,2,3,1]
+# unique=[]
+# for i in duplicate:
+#     if i not in unique:
+#         unique.append(i)
+# print(unique)
+
+# tuples
+
+# create
+t=()
+t2=(1,2,3,4,)
+t3=(1,'hello','world',2,3,4)
+t4=(1,2,3,(3,4))
+t5=(1,)
+print(type(t5))

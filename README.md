@@ -16,3 +16,4 @@ Day 7 is all about the lists. Lists are heterogenous(different data types can be
 List do not store stuff in a line or in a sequence of memory address whereas arrays store in a seq of memory address which is why they are faster.
 Lists are programmer friendly.
 Lists are mutable.
+Tuples are immutable.
