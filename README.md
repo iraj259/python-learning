@@ -24,3 +24,5 @@ It has no indexing, is a mutable data type but keys are immutable and values are
 
 Mutable->list/sets/dictionary
 Immutable->strings/tuples/int/float/boolean/complex
+
+Day 8 was all about theory and learning abut variable and memory references.
