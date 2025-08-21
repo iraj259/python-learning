@@ -26,3 +26,4 @@ Mutable->list/sets/dictionary
 Immutable->strings/tuples/int/float/boolean/complex
 
 Day 8 was all about theory and learning abut variable and memory references.
+Functions is a block of code with a purpose.
