@@ -30,3 +30,5 @@ Functions is a block of code with a purpose.
 Functions has abstraction-mean does not matter what the code is, main motive is ti run and get the desired output. Decomposition is like many diff small functions combined to make the desired thing.
 
 Day 9 was all about more function questions.
+
+Day 10 was about functions again.
