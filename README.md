@@ -32,3 +32,6 @@ Functions has abstraction-mean does not matter what the code is, main motive is 
 Day 9 was all about more function questions.
 
 Day 10 was about functions again.
+In arguments there are two types of arguments:
+1. Positional arguments->arguments are passed in the order they are defined in the function.
+2. Keyword arguments->arguments are passed by name.
