@@ -35,3 +35,5 @@ Day 10 was about functions again.
 In arguments there are two types of arguments:
 1. Positional arguments->arguments are passed in the order they are defined in the function.
 2. Keyword arguments->arguments are passed by name.
+If there is no return value in the function, then it prints the none.
+If function does not have any variable value but the variable is declared and same variable of the same name is also declared globally, then it will print the global variable value. It can use the global variable but can not change its value. 
