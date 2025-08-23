@@ -39,3 +39,4 @@ If there is no return value in the function, then it prints the none.
 If function does not have any variable value but the variable is declared and same variable of the same name is also declared globally, then it will print the global variable value. It can use the global variable but can not change its value. You can actually change by writing global variable name before the variable name.(but one should not do this).
 
 Functions in python behave exactly as a data type and can be renamed, deleted, stored, returned,passed as an argument and can be used in other functions.
+FUNCTIONS -> CODE MODULARITY(EACH CODE IS SELF CONTAINED AND BREAK ENTIRE LOGIC INTO PIECES), CODE REUSABILITY, CODE READABILITY.
