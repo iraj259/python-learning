@@ -40,3 +40,7 @@ If function does not have any variable value but the variable is declared and sa
 
 Functions in python behave exactly as a data type and can be renamed, deleted, stored, returned,passed as an argument and can be used in other functions.
 FUNCTIONS -> CODE MODULARITY(EACH CODE IS SELF CONTAINED AND BREAK ENTIRE LOGIC INTO PIECES), CODE REUSABILITY, CODE READABILITY.
+
+
+Day 11 was all about recursion.
+
