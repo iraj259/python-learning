@@ -44,3 +44,7 @@ FUNCTIONS -> CODE MODULARITY(EACH CODE IS SELF CONTAINED AND BREAK ENTIRE LOGIC 
 
 Day 11 was all about recursion.
 
+<!-- OOP -->
+
+Class is a blueprint for creating objects. Objects are instances of classes. 
+Class name is in pascal case.
