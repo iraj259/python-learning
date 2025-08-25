@@ -48,3 +48,9 @@ Day 11 was all about recursion.
 
 Class is a blueprint for creating objects. Objects are instances of classes. 
 Class name is in pascal case.
+Class data is private and methods are public.
+Function vs method:
+Function is defined outside a class and can be used by any. Whereas,method is defined for a specific class and can be used only for that.
+
+Day 11 was about OOP.
+Constructor is a special method that is called when an object is created.
